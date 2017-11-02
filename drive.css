@@ -6,8 +6,8 @@
 body {
   background: url(https://i.imgur.com/yDAyZFo.jpg);
   /* background-position: 0px 50px ; */
-background-position: center 50px;
-  background-repeat: no-repeat;
+	background-position: center 50px;
+  background-repeat:no-repeat;
   background-color: #EDEECE;
 	background-attachment: fixed;
 	background-size: 88%;
