@@ -1,0 +1,115 @@
+@font-face {
+	font-family: Mistral;
+	src: url(Mistral.ttf);
+}
+
+body {
+  background: url(https://i.imgur.com/yDAyZFo.jpg);
+  /* background-position: 0px 50px ; */
+background-position: center 50px;
+	//background-position: center;
+  background-repeat: no-repeat;
+  background-color: #EDEECE;
+	background-attachment: fixed;
+	background-size: 88%;
+  color: #876BA1;
+}
+
+.page-wrapper{
+  width: auto;
+  height: auto;
+}
+
+h2{
+	font-family: Mistral;
+	color: #E84298;
+	font-size: 35px;
+}
+
+h3 {
+	font-family: Mistral;
+	color: #E84298;
+	font-size: 35px;
+	padding-top: 40px;
+}
+.intro {
+	margin-bottom: 50px;
+	font-family: verdana;
+}
+.intro h1{
+	font-family: Mistral;
+	text-align: center;
+	font-size: 55px;
+	margin: 0px;
+	color: #E84298;
+}
+.summary{
+  width: 500px;
+  height: 70px;
+	font-family: verdana;
+}
+.preamble{
+	top: 5000000px;
+	width: 500px;
+	font-family: verdana;
+}
+
+.mainsupporting{
+	display: block;
+	font-family: verdana;
+}
+
+.explanation{
+	width:500px;
+	color: #876BA1;
+	font-family: verdana;
+	top: 10px;
+
+}
+.participation{
+	position:absolute;
+	right: 10px;
+	top: 15px;
+	width: 500px;
+	color: #876BA1;
+	font-family: verdana;
+
+}
+.benefits{
+	position:absolute;
+	right: 10px;
+	top: 1300px;
+	width: 500px;
+	font-family: verdana;
+}
+.requirements{
+	position:absolute;
+	right: 10px;
+	top: 500px;
+	width: 500px;
+	font-family: verdana;
+}
+
+.design-selection {
+	font-family: helvetica;
+}
+
+.design-archives {
+	font-family: helvetica;
+}
+
+.zen-resources{
+	font-family: helvetica;
+}
+
+
+
+a {
+    color: #E84298;
+    text-decoration: none;
+}
+
+
+a:hover {
+    color: #8C0DA1;
+}
